@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <style>
+  body {background-color: powderblue;}
+  h1   {color: blue;}
+  </head>
+  </style>
+
+  <body>
+  <head>
+    <title>James's Test Page</title>
+  </head>
+  <body>
+
+    <h1>My Page</h1>
+    <b>Hello, world!</b>
+    
+    <p style="background-color:orange;">This webpage is created on the Jun 8 2021.</p>
+    <i style="background-color:rgb(238, 130, 238);">Using different colours and font.</i>
+    <mark>And highlighting.</mark>
+  
+  <br>
+
+  <a href="https://www.google.com/search?q=yjh-e&safe=strict&ei=SpDDYK7OL9iFjLsPyL-o8AQ&oq=yjh-e&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEAoQHjIICAAQCBAKEB4yCAgAEAgQChAeUNwDWN0NYPUPaABwAHgAgAF3iAH8BpIBBDEwLjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz&ved=0ahUKEwium-SDgZDxAhXYAmMBHcgfCk4Q4dUDCA8&uact=5">Click here to see what comes up in Google when you search "YJH-e".</a>
+
+  <br>
+
+  <img src="immortal_jellyfish.png" alt="The image shows an immortal jellyfish." width=600px>   
+
+  </body>
+</html>
